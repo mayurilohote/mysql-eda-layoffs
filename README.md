@@ -20,6 +20,6 @@ Identify:
 
 Files in This Repository:
 
-eda_queries.sql     → All SQL queries used for analysis
-layoffs.csv         → Raw dataset used in the project
-README.md           → Project documentation
+- eda_queries.sql     → All SQL queries used for analysis
+- layoffs.csv         → Raw dataset used in the project
+- README.md           → Project documentation
